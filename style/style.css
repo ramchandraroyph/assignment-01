@@ -1,0 +1,183 @@
+* {
+  font-family: "Work Sans", sans-serif;
+}
+header {
+  background-image: url("../images/banner/banner1.png");
+  background-repeat: no-repeat;
+  height: 808px;
+  width: 1600px;
+  left: 1600px;
+  top: 808px;
+  border-radius: 0px;
+}
+.header-text {
+  text-align: right;
+  padding-top: 228px;
+  padding-left: 845px;
+  padding-right: 230px;
+  padding-top: 216px;
+  bottom: 166px;
+}
+.header-text h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 76px;
+}
+.header-text p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+}
+.header-text button {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 23px;
+  color: #ffffff;
+  width: 160px;
+  height: 64px;
+  left: 1210px;
+  top: 578px;
+  background: #eb551a;
+  border: #eb551a;
+  border-radius: 5px;
+}
+.firstpartofmain {
+  display: flex;
+  padding-left: 100px;
+  padding-top: 200px;
+  text-align: inherit;
+}
+.firstpartofmain div {
+  padding-left: 86px;
+  padding-top: 370px;
+}
+.firstpartofmain h2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+}
+.first-part-footer {
+  position: inherit;
+  margin: 130px 230px;
+  text-align: center;
+}
+.first-part-footer h2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: black;
+}
+.about-my-plans {
+  display: flex;
+  justify-content: space-around;
+}
+.second-footer {
+  background: linear-gradient(90deg, #f15b22 0%, rgba(241, 0, 0, 0) 100%);
+  background-image: url("../images/gradient2.png"), url("../images/watch.png");
+  border-radius: 8px;
+  background-repeat: no-repeat, no-repeat;
+  margin: 0px 130px 230px 230px;
+  height: 300px;
+  top: 2222.26px;
+}
+.second-footer h2 {
+  padding-top: 54px;
+  margin-left: 64px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #ffffff;
+}
+.second-footer button {
+  padding: 15px;
+  margin-left: 64px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  color: #eb551a;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+}
+.footer-last {
+  background: #151414;
+  text-align: justify;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.footer-last div {
+  margin-top: 130px;
+  margin-left: 230px;
+  margin-bottom: 130px;
+}
+.footer-last h2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 53px;
+  color: #f8f8f8;
+}
+.footer-last h4 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 29px;
+  color: #ffffff;
+}
+.footer-last p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #ffffff;
+}
+.footer-last button {
+  margin-top: 16px;
+  padding: 18px 20px;
+  background: #ffffff;
+  border-radius: 8px;
+  color: #eb551a;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+}
+.footer-last input {
+  width: 325px;
+  border-radius: 5px;
+  height: 64px;
+  left: 1046px;
+  top: 2842.26px;
+}
+.last {
+  background-color: antiquewhite;
+}
+.about {
+  text-align: center;
+  padding-top: 130px;
+  padding-left: 230px;
+  padding-right: 230px;
+}
+.about h2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 24px;
+}
+.details {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  padding-bottom: 130px;
+  padding-left: 230px;
+  padding-right: 230px;
+}
